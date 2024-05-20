@@ -73,7 +73,12 @@
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-mysql</artifactId>
 		</dependency>
-		
+
+		<dependency>
+			<groupId>br.edu.unichristus.backend</groupId>
+			<artifactId>backend-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
