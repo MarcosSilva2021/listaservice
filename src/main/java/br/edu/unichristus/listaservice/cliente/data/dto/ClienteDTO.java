@@ -13,8 +13,9 @@ public class ClienteDTO {
 
 	private Long id;
 	
-	private String name;
+	private String nome;
 	private String email;
+	private String endereco;
 	private String login;
 	private String password;
 }
